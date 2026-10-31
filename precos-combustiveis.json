@@ -1,0 +1,158 @@
+{
+ "estados": {
+  "AC": {
+   "diesel": 8.21,
+   "etanol": 4.92,
+   "gasolina": 7.43
+  },
+  "AL": {
+   "diesel": 7.33,
+   "etanol": 4.96,
+   "gasolina": 6.64,
+   "gnv": 4.39
+  },
+  "AM": {
+   "diesel": 7.22,
+   "etanol": 4.96,
+   "gasolina": 7.03
+  },
+  "AP": {
+   "diesel": 7.21,
+   "gasolina": 6.35
+  },
+  "BA": {
+   "diesel": 7.51,
+   "etanol": 4.49,
+   "gasolina": 6.7,
+   "gnv": 4.81
+  },
+  "CE": {
+   "diesel": 7.3,
+   "etanol": 4.97,
+   "gasolina": 6.94,
+   "gnv": 5.55
+  },
+  "DF": {
+   "diesel": 7.44,
+   "etanol": 4.3,
+   "gasolina": 6.39
+  },
+  "ES": {
+   "diesel": 6.87,
+   "etanol": 4.7,
+   "gasolina": 6.39,
+   "gnv": 4.39
+  },
+  "GO": {
+   "diesel": 7.3,
+   "etanol": 3.94,
+   "gasolina": 6.42
+  },
+  "MA": {
+   "diesel": 7.47,
+   "etanol": 4.91,
+   "gasolina": 6.52
+  },
+  "MG": {
+   "diesel": 7.05,
+   "etanol": 4.27,
+   "gasolina": 6.32,
+   "gnv": 5.42
+  },
+  "MS": {
+   "diesel": 7.34,
+   "etanol": 4.0,
+   "gasolina": 6.4,
+   "gnv": 4.59
+  },
+  "MT": {
+   "diesel": 7.6,
+   "etanol": 4.08,
+   "gasolina": 6.75,
+   "gnv": 3.99
+  },
+  "PA": {
+   "diesel": 7.53,
+   "etanol": 4.57,
+   "gasolina": 6.58
+  },
+  "PB": {
+   "diesel": 7.28,
+   "etanol": 4.54,
+   "gasolina": 6.31,
+   "gnv": 4.99
+  },
+  "PE": {
+   "diesel": 7.27,
+   "etanol": 4.94,
+   "gasolina": 6.88,
+   "gnv": 4.78
+  },
+  "PI": {
+   "diesel": 7.7,
+   "etanol": 4.8,
+   "gasolina": 6.71
+  },
+  "PR": {
+   "diesel": 7.36,
+   "etanol": 4.23,
+   "gasolina": 6.57,
+   "gnv": 5.16
+  },
+  "RJ": {
+   "diesel": 7.15,
+   "etanol": 4.77,
+   "gasolina": 6.59,
+   "gnv": 4.53
+  },
+  "RN": {
+   "diesel": 7.5,
+   "etanol": 5.16,
+   "gasolina": 6.76,
+   "gnv": 4.99
+  },
+  "RO": {
+   "diesel": 7.57,
+   "etanol": 5.08,
+   "gasolina": 7.43
+  },
+  "RR": {
+   "diesel": 7.6,
+   "etanol": 5.38,
+   "gasolina": 7.56
+  },
+  "RS": {
+   "diesel": 7.16,
+   "etanol": 4.57,
+   "gasolina": 6.16,
+   "gnv": 5.39
+  },
+  "SC": {
+   "diesel": 7.23,
+   "etanol": 4.4,
+   "gasolina": 6.29,
+   "gnv": 4.7
+  },
+  "SE": {
+   "diesel": 7.33,
+   "etanol": 5.24,
+   "gasolina": 6.93,
+   "gnv": 4.79
+  },
+  "SP": {
+   "diesel": 7.32,
+   "etanol": 3.89,
+   "gasolina": 6.35,
+   "gnv": 5.17
+  },
+  "TO": {
+   "diesel": 7.42,
+   "etanol": 5.01,
+   "gasolina": 6.94
+  }
+ },
+ "fim": "2026-10-24",
+ "fonte": "ANP — Levantamento de Preços de Combustíveis",
+ "geradoEm": "2026-10-31T18:48:45Z",
+ "inicio": "2026-10-18"
+}
