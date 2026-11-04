@@ -1,158 +1,159 @@
 {
  "estados": {
   "AC": {
-   "diesel": 8.21,
-   "etanol": 4.92,
+   "diesel": 8.25,
+   "etanol": 4.91,
    "gasolina": 7.43
   },
   "AL": {
    "diesel": 7.33,
-   "etanol": 4.96,
-   "gasolina": 6.64,
+   "etanol": 4.92,
+   "gasolina": 6.6,
    "gnv": 4.39
   },
   "AM": {
-   "diesel": 7.22,
-   "etanol": 4.96,
-   "gasolina": 7.03
+   "diesel": 7.17,
+   "etanol": 4.85,
+   "gasolina": 6.96
   },
   "AP": {
-   "diesel": 7.21,
-   "gasolina": 6.35
+   "diesel": 7.29,
+   "etanol": 5.49,
+   "gasolina": 6.36
   },
   "BA": {
-   "diesel": 7.51,
-   "etanol": 4.49,
-   "gasolina": 6.7,
-   "gnv": 4.81
+   "diesel": 7.59,
+   "etanol": 4.5,
+   "gasolina": 6.69,
+   "gnv": 4.64
   },
   "CE": {
-   "diesel": 7.3,
-   "etanol": 4.97,
-   "gasolina": 6.94,
+   "diesel": 7.29,
+   "etanol": 4.96,
+   "gasolina": 6.92,
    "gnv": 5.55
   },
   "DF": {
-   "diesel": 7.44,
-   "etanol": 4.3,
-   "gasolina": 6.39
+   "diesel": 7.41,
+   "etanol": 4.33,
+   "gasolina": 6.38
   },
   "ES": {
-   "diesel": 6.87,
-   "etanol": 4.7,
-   "gasolina": 6.39,
+   "diesel": 6.91,
+   "etanol": 4.76,
+   "gasolina": 6.42,
    "gnv": 4.39
   },
   "GO": {
-   "diesel": 7.3,
-   "etanol": 3.94,
-   "gasolina": 6.42
+   "diesel": 7.25,
+   "etanol": 3.87,
+   "gasolina": 6.29
   },
   "MA": {
-   "diesel": 7.47,
-   "etanol": 4.91,
-   "gasolina": 6.52
+   "diesel": 7.38,
+   "etanol": 4.86,
+   "gasolina": 6.44
   },
   "MG": {
-   "diesel": 7.05,
-   "etanol": 4.27,
-   "gasolina": 6.32,
+   "diesel": 7.04,
+   "etanol": 4.35,
+   "gasolina": 6.35,
    "gnv": 5.42
   },
   "MS": {
-   "diesel": 7.34,
-   "etanol": 4.0,
-   "gasolina": 6.4,
+   "diesel": 7.36,
+   "etanol": 4.01,
+   "gasolina": 6.39,
    "gnv": 4.59
   },
   "MT": {
-   "diesel": 7.6,
-   "etanol": 4.08,
-   "gasolina": 6.75,
+   "diesel": 7.58,
+   "etanol": 4.09,
+   "gasolina": 6.74,
    "gnv": 3.99
   },
   "PA": {
-   "diesel": 7.53,
-   "etanol": 4.57,
-   "gasolina": 6.58
+   "diesel": 7.56,
+   "etanol": 4.51,
+   "gasolina": 6.53
   },
   "PB": {
-   "diesel": 7.28,
-   "etanol": 4.54,
-   "gasolina": 6.31,
+   "diesel": 7.26,
+   "etanol": 4.53,
+   "gasolina": 6.29,
    "gnv": 4.99
   },
   "PE": {
-   "diesel": 7.27,
-   "etanol": 4.94,
-   "gasolina": 6.88,
+   "diesel": 7.17,
+   "etanol": 4.84,
+   "gasolina": 6.82,
    "gnv": 4.78
   },
   "PI": {
-   "diesel": 7.7,
-   "etanol": 4.8,
-   "gasolina": 6.71
+   "diesel": 7.72,
+   "etanol": 4.81,
+   "gasolina": 6.67
   },
   "PR": {
-   "diesel": 7.36,
-   "etanol": 4.23,
-   "gasolina": 6.57,
-   "gnv": 5.16
+   "diesel": 7.34,
+   "etanol": 4.24,
+   "gasolina": 6.56,
+   "gnv": 4.69
   },
   "RJ": {
-   "diesel": 7.15,
-   "etanol": 4.77,
-   "gasolina": 6.59,
-   "gnv": 4.53
+   "diesel": 7.13,
+   "etanol": 4.8,
+   "gasolina": 6.6,
+   "gnv": 4.55
   },
   "RN": {
-   "diesel": 7.5,
-   "etanol": 5.16,
-   "gasolina": 6.76,
-   "gnv": 4.99
+   "diesel": 7.46,
+   "etanol": 5.17,
+   "gasolina": 6.67,
+   "gnv": 4.98
   },
   "RO": {
-   "diesel": 7.57,
-   "etanol": 5.08,
-   "gasolina": 7.43
+   "diesel": 7.54,
+   "etanol": 5.1,
+   "gasolina": 7.42
   },
   "RR": {
-   "diesel": 7.6,
+   "diesel": 7.64,
    "etanol": 5.38,
-   "gasolina": 7.56
+   "gasolina": 7.57
   },
   "RS": {
-   "diesel": 7.16,
-   "etanol": 4.57,
-   "gasolina": 6.16,
-   "gnv": 5.39
+   "diesel": 7.15,
+   "etanol": 4.55,
+   "gasolina": 6.12,
+   "gnv": 5.41
   },
   "SC": {
-   "diesel": 7.23,
-   "etanol": 4.4,
-   "gasolina": 6.29,
+   "diesel": 7.21,
+   "etanol": 4.44,
+   "gasolina": 6.32,
    "gnv": 4.7
   },
   "SE": {
-   "diesel": 7.33,
-   "etanol": 5.24,
-   "gasolina": 6.93,
-   "gnv": 4.79
+   "diesel": 7.34,
+   "etanol": 5.2,
+   "gasolina": 6.94,
+   "gnv": 4.75
   },
   "SP": {
    "diesel": 7.32,
-   "etanol": 3.89,
+   "etanol": 3.92,
    "gasolina": 6.35,
    "gnv": 5.17
   },
   "TO": {
-   "diesel": 7.42,
-   "etanol": 5.01,
-   "gasolina": 6.94
+   "diesel": 7.3,
+   "etanol": 4.99,
+   "gasolina": 6.9
   }
  },
- "fim": "2026-10-24",
+ "fim": "2026-10-31",
  "fonte": "ANP — Levantamento de Preços de Combustíveis",
- "geradoEm": "2026-10-31T18:48:45Z",
- "inicio": "2026-10-18"
+ "geradoEm": "2026-11-04T19:31:36Z",
+ "inicio": "2026-10-25"
 }
