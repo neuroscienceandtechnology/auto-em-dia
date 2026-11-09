@@ -2,29 +2,28 @@
  "estados": {
   "AC": {
    "diesel": 8.25,
-   "etanol": 4.91,
-   "gasolina": 7.43
+   "etanol": 4.93,
+   "gasolina": 7.44
   },
   "AL": {
-   "diesel": 7.33,
+   "diesel": 7.36,
    "etanol": 4.92,
-   "gasolina": 6.6,
+   "gasolina": 6.55,
    "gnv": 4.39
   },
   "AM": {
-   "diesel": 7.17,
-   "etanol": 4.85,
-   "gasolina": 6.96
+   "diesel": 7.14,
+   "etanol": 4.98,
+   "gasolina": 7.01
   },
   "AP": {
-   "diesel": 7.29,
-   "etanol": 5.49,
-   "gasolina": 6.36
+   "diesel": 7.17,
+   "gasolina": 6.33
   },
   "BA": {
-   "diesel": 7.59,
-   "etanol": 4.5,
-   "gasolina": 6.69,
+   "diesel": 7.65,
+   "etanol": 4.47,
+   "gasolina": 6.65,
    "gnv": 4.64
   },
   "CE": {
@@ -34,126 +33,126 @@
    "gnv": 5.55
   },
   "DF": {
-   "diesel": 7.41,
-   "etanol": 4.33,
-   "gasolina": 6.38
+   "diesel": 7.36,
+   "etanol": 4.51,
+   "gasolina": 6.57
   },
   "ES": {
    "diesel": 6.91,
-   "etanol": 4.76,
-   "gasolina": 6.42,
-   "gnv": 4.39
+   "etanol": 4.81,
+   "gasolina": 6.41,
+   "gnv": 4.42
   },
   "GO": {
    "diesel": 7.25,
-   "etanol": 3.87,
-   "gasolina": 6.29
+   "etanol": 3.89,
+   "gasolina": 6.31
   },
   "MA": {
-   "diesel": 7.38,
+   "diesel": 7.37,
    "etanol": 4.86,
-   "gasolina": 6.44
+   "gasolina": 6.38
   },
   "MG": {
    "diesel": 7.04,
-   "etanol": 4.35,
+   "etanol": 4.33,
    "gasolina": 6.35,
    "gnv": 5.42
   },
   "MS": {
-   "diesel": 7.36,
-   "etanol": 4.01,
-   "gasolina": 6.39,
-   "gnv": 4.59
+   "diesel": 7.35,
+   "etanol": 4.03,
+   "gasolina": 6.41,
+   "gnv": 4.49
   },
   "MT": {
-   "diesel": 7.58,
-   "etanol": 4.09,
+   "diesel": 7.56,
+   "etanol": 4.06,
    "gasolina": 6.74,
    "gnv": 3.99
   },
   "PA": {
-   "diesel": 7.56,
-   "etanol": 4.51,
-   "gasolina": 6.53
+   "diesel": 7.49,
+   "etanol": 4.56,
+   "gasolina": 6.52
   },
   "PB": {
-   "diesel": 7.26,
-   "etanol": 4.53,
-   "gasolina": 6.29,
+   "diesel": 7.21,
+   "etanol": 4.47,
+   "gasolina": 6.28,
    "gnv": 4.99
   },
   "PE": {
-   "diesel": 7.17,
-   "etanol": 4.84,
-   "gasolina": 6.82,
-   "gnv": 4.78
+   "diesel": 7.14,
+   "etanol": 4.82,
+   "gasolina": 6.79,
+   "gnv": 4.85
   },
   "PI": {
-   "diesel": 7.72,
-   "etanol": 4.81,
-   "gasolina": 6.67
+   "diesel": 7.68,
+   "etanol": 4.78,
+   "gasolina": 6.66
   },
   "PR": {
-   "diesel": 7.34,
-   "etanol": 4.24,
-   "gasolina": 6.56,
-   "gnv": 4.69
+   "diesel": 7.32,
+   "etanol": 4.22,
+   "gasolina": 6.54,
+   "gnv": 4.99
   },
   "RJ": {
    "diesel": 7.13,
-   "etanol": 4.8,
-   "gasolina": 6.6,
-   "gnv": 4.55
+   "etanol": 4.79,
+   "gasolina": 6.58,
+   "gnv": 4.57
   },
   "RN": {
-   "diesel": 7.46,
-   "etanol": 5.17,
-   "gasolina": 6.67,
-   "gnv": 4.98
+   "diesel": 7.43,
+   "etanol": 4.88,
+   "gasolina": 6.54,
+   "gnv": 5.09
   },
   "RO": {
-   "diesel": 7.54,
-   "etanol": 5.1,
-   "gasolina": 7.42
+   "diesel": 7.53,
+   "etanol": 5.09,
+   "gasolina": 7.43
   },
   "RR": {
-   "diesel": 7.64,
+   "diesel": 7.61,
    "etanol": 5.38,
    "gasolina": 7.57
   },
   "RS": {
-   "diesel": 7.15,
-   "etanol": 4.55,
-   "gasolina": 6.12,
-   "gnv": 5.41
+   "diesel": 7.13,
+   "etanol": 4.57,
+   "gasolina": 6.11,
+   "gnv": 5.43
   },
   "SC": {
    "diesel": 7.21,
-   "etanol": 4.44,
-   "gasolina": 6.32,
+   "etanol": 4.48,
+   "gasolina": 6.31,
    "gnv": 4.7
   },
   "SE": {
-   "diesel": 7.34,
-   "etanol": 5.2,
-   "gasolina": 6.94,
+   "diesel": 7.32,
+   "etanol": 5.17,
+   "gasolina": 6.93,
    "gnv": 4.75
   },
   "SP": {
-   "diesel": 7.32,
-   "etanol": 3.92,
-   "gasolina": 6.35,
-   "gnv": 5.17
+   "diesel": 7.3,
+   "etanol": 3.97,
+   "gasolina": 6.36,
+   "gnv": 5.11
   },
   "TO": {
-   "diesel": 7.3,
-   "etanol": 4.99,
+   "diesel": 7.32,
+   "etanol": 4.95,
    "gasolina": 6.9
   }
  },
- "fim": "2026-10-31",
+ "fim": "2026-11-07",
  "fonte": "ANP — Levantamento de Preços de Combustíveis",
- "geradoEm": "2026-11-04T19:31:36Z",
- "inicio": "2026-10-25"
+ "geradoEm": "2026-11-09T22:05:34Z",
+ "inicio": "2026-11-01"
 }
