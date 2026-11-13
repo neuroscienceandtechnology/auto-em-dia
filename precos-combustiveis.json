@@ -1,158 +1,159 @@
 {
  "estados": {
   "AC": {
-   "diesel": 8.25,
-   "etanol": 4.93,
-   "gasolina": 7.44
+   "diesel": 8.17,
+   "etanol": 4.9,
+   "gasolina": 7.43
   },
   "AL": {
-   "diesel": 7.36,
-   "etanol": 4.92,
+   "diesel": 7.3,
+   "etanol": 4.89,
    "gasolina": 6.55,
    "gnv": 4.39
   },
   "AM": {
-   "diesel": 7.14,
-   "etanol": 4.98,
-   "gasolina": 7.01
+   "diesel": 7.09,
+   "etanol": 4.96,
+   "gasolina": 6.94
   },
   "AP": {
-   "diesel": 7.17,
-   "gasolina": 6.33
+   "diesel": 7.26,
+   "etanol": 5.59,
+   "gasolina": 6.37
   },
   "BA": {
-   "diesel": 7.65,
-   "etanol": 4.47,
-   "gasolina": 6.65,
-   "gnv": 4.64
+   "diesel": 7.59,
+   "etanol": 4.61,
+   "gasolina": 6.64,
+   "gnv": 4.66
   },
   "CE": {
    "diesel": 7.29,
-   "etanol": 4.96,
-   "gasolina": 6.92,
+   "etanol": 4.95,
+   "gasolina": 6.91,
    "gnv": 5.55
   },
   "DF": {
-   "diesel": 7.36,
-   "etanol": 4.51,
-   "gasolina": 6.57
+   "diesel": 7.35,
+   "etanol": 4.5,
+   "gasolina": 6.55
   },
   "ES": {
-   "diesel": 6.91,
-   "etanol": 4.81,
-   "gasolina": 6.41,
-   "gnv": 4.42
+   "diesel": 6.97,
+   "etanol": 4.88,
+   "gasolina": 6.43,
+   "gnv": 4.39
   },
   "GO": {
-   "diesel": 7.25,
-   "etanol": 3.89,
-   "gasolina": 6.31
+   "diesel": 7.2,
+   "etanol": 4.37,
+   "gasolina": 6.59
   },
   "MA": {
-   "diesel": 7.37,
-   "etanol": 4.86,
-   "gasolina": 6.38
+   "diesel": 7.41,
+   "etanol": 4.85,
+   "gasolina": 6.4
   },
   "MG": {
    "diesel": 7.04,
-   "etanol": 4.33,
-   "gasolina": 6.35,
+   "etanol": 4.36,
+   "gasolina": 6.36,
    "gnv": 5.42
   },
   "MS": {
-   "diesel": 7.35,
-   "etanol": 4.03,
-   "gasolina": 6.41,
-   "gnv": 4.49
+   "diesel": 7.32,
+   "etanol": 4.06,
+   "gasolina": 6.4,
+   "gnv": 4.54
   },
   "MT": {
-   "diesel": 7.56,
-   "etanol": 4.06,
+   "diesel": 7.52,
+   "etanol": 4.16,
    "gasolina": 6.74,
    "gnv": 3.99
   },
   "PA": {
-   "diesel": 7.49,
-   "etanol": 4.56,
-   "gasolina": 6.52
+   "diesel": 7.48,
+   "etanol": 4.57,
+   "gasolina": 6.53
   },
   "PB": {
-   "diesel": 7.21,
+   "diesel": 7.24,
    "etanol": 4.47,
-   "gasolina": 6.28,
+   "gasolina": 6.27,
    "gnv": 4.99
   },
   "PE": {
-   "diesel": 7.14,
-   "etanol": 4.82,
-   "gasolina": 6.79,
-   "gnv": 4.85
+   "diesel": 7.12,
+   "etanol": 4.75,
+   "gasolina": 6.75,
+   "gnv": 4.87
   },
   "PI": {
-   "diesel": 7.68,
-   "etanol": 4.78,
-   "gasolina": 6.66
+   "diesel": 7.67,
+   "etanol": 4.82,
+   "gasolina": 6.61
   },
   "PR": {
-   "diesel": 7.32,
-   "etanol": 4.22,
+   "diesel": 7.31,
+   "etanol": 4.27,
    "gasolina": 6.54,
-   "gnv": 4.99
+   "gnv": 4.89
   },
   "RJ": {
    "diesel": 7.13,
-   "etanol": 4.79,
-   "gasolina": 6.58,
-   "gnv": 4.57
+   "etanol": 4.86,
+   "gasolina": 6.61,
+   "gnv": 4.75
   },
   "RN": {
-   "diesel": 7.43,
-   "etanol": 4.88,
-   "gasolina": 6.54,
-   "gnv": 5.09
+   "diesel": 7.36,
+   "etanol": 4.82,
+   "gasolina": 6.46,
+   "gnv": 4.98
   },
   "RO": {
-   "diesel": 7.53,
+   "diesel": 7.48,
    "etanol": 5.09,
    "gasolina": 7.43
   },
   "RR": {
-   "diesel": 7.61,
+   "diesel": 7.63,
    "etanol": 5.38,
    "gasolina": 7.57
   },
   "RS": {
-   "diesel": 7.13,
-   "etanol": 4.57,
-   "gasolina": 6.11,
-   "gnv": 5.43
+   "diesel": 7.11,
+   "etanol": 4.63,
+   "gasolina": 6.13,
+   "gnv": 5.42
   },
   "SC": {
-   "diesel": 7.21,
-   "etanol": 4.48,
-   "gasolina": 6.31,
+   "diesel": 7.2,
+   "etanol": 4.49,
+   "gasolina": 6.29,
    "gnv": 4.7
   },
   "SE": {
-   "diesel": 7.32,
-   "etanol": 5.17,
-   "gasolina": 6.93,
+   "diesel": 7.34,
+   "etanol": 5.18,
+   "gasolina": 6.94,
    "gnv": 4.75
   },
   "SP": {
-   "diesel": 7.3,
-   "etanol": 3.97,
+   "diesel": 7.31,
+   "etanol": 4.05,
    "gasolina": 6.36,
-   "gnv": 5.11
+   "gnv": 5.19
   },
   "TO": {
-   "diesel": 7.32,
+   "diesel": 7.33,
    "etanol": 4.95,
-   "gasolina": 6.9
+   "gasolina": 6.86
   }
  },
- "fim": "2026-11-07",
+ "fim": "2026-11-14",
  "fonte": "ANP — Levantamento de Preços de Combustíveis",
- "geradoEm": "2026-11-09T22:05:34Z",
- "inicio": "2026-11-01"
+ "geradoEm": "2026-11-13T19:23:38Z",
+ "inicio": "2026-11-08"
 }
